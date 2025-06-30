@@ -43,6 +43,25 @@ Edit
 - CSS3
 - JavaScript (Vanilla)
 
+---
+
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
+---
+
 ## 📁 Project Structure
 
 📦 increment-decrement-app
@@ -77,8 +96,3 @@ Feel free to fork, customize, and use it in your own projects!
 📬 Contact
 If you have any feedback or questions, feel free to connect!
 
-vbnet
-Copy
-Edit
-
-Let me know if you'd like a version using React or another framework, or if you want me to generate the
